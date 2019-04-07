@@ -1,7 +1,7 @@
 package com.alan.flyweight;
 
 /**
- * @description:
+ * @description: 享元模式
  * @author: alan chen
  * @create: 2019-04-06 23:42
  */
